@@ -4,9 +4,7 @@
 #include <stdlib.h>
 
 int solveMeFirst(int a, int b) {
-    int c;
-	c = a + b;
-	return c;
+	return a+b;
 }
 
 int main() {
